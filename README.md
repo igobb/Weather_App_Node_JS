@@ -4,7 +4,7 @@
 
 ## About
 * [Introduction](#introduction)
-* [Technologies](#technologies)
+* [Technologies](#technologies_used)
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Contact](#contact)
@@ -29,15 +29,19 @@ To run this project, follow these steps:
 3. In the terminal, enter one of the following commands:
 
 * To check the weather in a city in Poland, enter:
-
+```
 $node index.js polishCityName
+```
+
 
 Replace 'polishCityName' with the name of a city from the following list:
 Szczecin, Resko, Kołobrzeg, Gorzów, Słubice, Kalisz, Piła, Poznań, Legnica, Koszalin, Świnoujście, Zielona Góra, Toruń, Koło, Wieluń, Ustka, Szczecinek, Leszno, Warszawa, Platforma, Łódź, Płock, Chojnice, Tarnów, Racibórz, Sulejów, Częstochowa, Kłodzko, Lębork, Łeba, Hel, Sandomierz, Wrocław, Opole, Kozienice, Przemyśl, Bielsko Biała, Lublin, Kraków, Rzeszów, Kielce, Mława, Krosno, Nowy Sącz, Elbląg, Gdańsk, Olsztyn, Katowice, Lesko, Kętrzyn, Ostrołęka, Siedlce, Zamość, Mikołajki, Jelenia Góra, Włodawa, Terespol, Zakopane, Śnieżka, Białystok, Kasprowy Wierch, Suwałki
 
 * To check the warmest and coldest cities in Poland, enter:
-
+```
 $node warmestPlaceInPoland.js
+```
+
 
 The data will be saved in the 'data' directory, in the following files:
 
