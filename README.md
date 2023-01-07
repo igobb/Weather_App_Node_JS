@@ -4,7 +4,7 @@
 
 ## About
 * [Introduction](#introduction)
-* [Technologies](#technologies_used)
+* [Technologies](#technologies-used)
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Contact](#contact)
