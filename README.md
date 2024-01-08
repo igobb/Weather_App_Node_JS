@@ -54,4 +54,4 @@ Project is: _in progress_
 
 
 ## Contact
-Created by [@IGoB](https://igobb-portfolio.netlify.app/) - feel free to contact me!
+Created by [@IGoB](https://igobb.github.io/Portfolio_frontend/) - feel free to contact me!
